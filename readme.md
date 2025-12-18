@@ -82,7 +82,7 @@ https://feed.ajaxfeed.com/feeds/washington_capitals.json
 
 ### Модуль для загрузки логотипов
 
-Можно использовать модуль —[logos.js](./logos.js.zip)
+Можно использовать модуль — [logos.js](./_logos.js)
 
 ```ts
 // IFFE модуль, доступен глобально по window.jsLogos
