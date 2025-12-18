@@ -134,8 +134,8 @@ __Параметры логотипа__
 |                            `object.logoSmall` `object.logoMedium` `object.logoLarge` `object.logoExtraLarge`                        |  `строка`  |           `url логотипов разных размеров`           |
 |                                 `object.logoVector` `object.logoLargeVector` `object.logoExtraVector`                                 |  `строка`  |   `url векторных версий логотипов разных размеров`  |
 | `object.logoMonochrome` `object.logoMonochrome2` `object.logoMonochromeBlue` `object.logoMonochromeBlack` `object.logoMonochromeBlack2` |  `строка`  | `url монохромных версий логотипов разных вариантов` |
-|                                                `object.logoColor``object.logoColor2`                                                |  `строка`  |   `url цветных версий логотипов разных вариантов`   |
-|                             `object.logoWhiteOutline``object.logoBlackOutline``object.logoColorOutline`                             |  `строка`  |       `url логотипов с обводкой разных цветов`      |
+|                                                `object.logoColor` `object.logoColor2`                                                |  `строка`  |   `url цветных версий логотипов разных вариантов`   |
+|                             `object.logoWhiteOutline` `object.logoBlackOutline` `object.logoColorOutline`                             |  `строка`  |       `url логотипов с обводкой разных цветов`      |
 
 
 __Пример ответа__
