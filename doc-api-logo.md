@@ -131,7 +131,7 @@ __Параметры логотипа__
 |                                                              `version`                                                              |  `строка`  |                  `версия логотипа`                  |
 |                                                            `object.sport`                                                           |  `строка`  |                   `Id вида спорта`                  |
 |                                                            `object.name`                                                            |  `строка`  |                 `название логотипа`                 |
-|                            `object.logoSmall``object.logoMedium``object.logoLarge``object.logoExtraLarge`                           |  `строка`  |           `url логотипов разных размеров`           |
+|                            `object.logoSmall` `object.logoMedium` `object.logoLarge` `object.logoExtraLarge`                        |  `строка`  |           `url логотипов разных размеров`           |
 |                                 `object.logoVector``object.logoLargeVector``object.logoExtraVector`                                 |  `строка`  |   `url векторных версий логотипов разных размеров`  |
 | `object.logoMonochrome``object.logoMonochrome2``object.logoMonochromeBlue``object.logoMonochromeBlack``object.logoMonochromeBlack2` |  `строка`  | `url монохромных версий логотипов разных вариантов` |
 |                                                `object.logoColor``object.logoColor2`                                                |  `строка`  |   `url цветных версий логотипов разных вариантов`   |
