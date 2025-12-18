@@ -1,7 +1,9 @@
 # Загрузка матчей
 
 **URL для загрузки массивов матчей**
+
 https://feed.ajaxfeed.com/feeds/washington_capitals.json
+
 
 ## Описание полей объекта матча (использованных в этом виджете)
 
@@ -73,10 +75,12 @@ https://feed.ajaxfeed.com/feeds/washington_capitals.json
 - сгенерировать абсолютные пути для каждого логотипа
 
 **Подробнее описано тут**
+
 [doc-api-logo.md](./doc-api-logo.md)
 
 
 **Можно использовать следующий модуль**
+
 [logos.js](./logos.js.zip)
 
 ```ts
